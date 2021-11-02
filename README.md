@@ -1,2 +1,2 @@
 # cursoJS-rArgPrograma
-curso r-argentina programa
+curso r-argentina programa;
